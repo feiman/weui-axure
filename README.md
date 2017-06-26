@@ -1,6 +1,9 @@
 # 使用
 [点击这里](https://github.com/chonchoi/weui-axure/raw/master/weui-axure.rplib)下载 rplib 文件，并在 Axure 中安装。
 
+# 预览
+![](https://raw.githubusercontent.com/chonchoi/weui-axure/master/preview.png)
+
 # 完成进度 30%
 - [x] 图标
 - [x] 颜色
